@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TechStore AI Support</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  </head>
+  <body>
+    <main class="chat-shell">
+      <header class="chat-header">
+        <h1>TechStore AI Support</h1>
+        <p>Ask about products, orders, shipping, returns, warranties, or payments.</p>
+      </header>
+
+      <section id="chat-messages" class="chat-messages" aria-live="polite">
+        <div class="bubble bubble-agent">
+          Hello! I can help with TechStore support questions.
+        </div>
+      </section>
+
+      <form id="chat-form" class="chat-form">
+        <input
+          id="message-input"
+          name="message"
+          type="text"
+          maxlength="500"
+          placeholder="Ask a TechStore support question..."
+          autocomplete="off"
+        />
+        <button id="send-button" type="submit">Send</button>
+      </form>
+    </main>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+  </html>
