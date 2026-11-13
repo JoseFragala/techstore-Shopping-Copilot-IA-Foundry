@@ -1,0 +1,92 @@
+[
+  {
+    "sku": "NOTE-UB-14P",
+    "name": "TechStore UltraBook Pro 14",
+    "category": "Laptops",
+    "price": 1199.00,
+    "stock": 15,
+    "specs": "Intel Core Ultra 7 155H, 32GB RAM, 1TB SSD, 14.5 inch OLED 2.8K 120Hz",
+    "warranty_months": 12
+  },
+  {
+    "sku": "NOTE-GM-16T",
+    "name": "TechStore Gamer Titan X16",
+    "category": "Laptops",
+    "price": 1899.00,
+    "stock": 7,
+    "specs": "AMD Ryzen 9 7940HS, RTX 4070 8GB, 32GB RAM, 2TB SSD, 16 inch QHD+ 240Hz",
+    "warranty_months": 12
+  },
+  {
+    "sku": "NOTE-LT-15B",
+    "name": "TechStore LiteBook 15",
+    "category": "Laptops",
+    "price": 599.00,
+    "stock": 28,
+    "specs": "Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, 15.6 inch FHD IPS",
+    "warranty_months": 12
+  },
+  {
+    "sku": "MON-CRV-27",
+    "name": "VisionPro 27 Curved Gaming Monitor",
+    "category": "Monitors",
+    "price": 349.00,
+    "stock": 20,
+    "specs": "27 inch Curved 1500R VA, QHD 1440p, 165Hz, 1ms, FreeSync",
+    "warranty_months": 24
+  },
+  {
+    "sku": "MON-PRO-32K",
+    "name": "ColorMaster 32 4K Professional Monitor",
+    "category": "Monitors",
+    "price": 799.00,
+    "stock": 9,
+    "specs": "32 inch IPS 4K UHD, 99% DCI-P3, USB-C 90W PD, USB Hub",
+    "warranty_months": 36
+  },
+  {
+    "sku": "PER-TEC-RGB",
+    "name": "TechStore Apex RGB Mechanical Keyboard",
+    "category": "Peripherals",
+    "price": 99.00,
+    "stock": 42,
+    "specs": "Hot-swappable switches, Tri-mode Wireless and USB-C, Per-key RGB",
+    "warranty_months": 12
+  },
+  {
+    "sku": "PER-MOU-ERG",
+    "name": "ErgoPrecision Master Wireless Mouse",
+    "category": "Peripherals",
+    "price": 79.00,
+    "stock": 35,
+    "specs": "Ergonomic vertical, 4000 DPI, Bluetooth multi-device, 70-day battery",
+    "warranty_months": 12
+  },
+  {
+    "sku": "PER-MOU-RPT",
+    "name": "Raptor Ultra-Light Gaming Mouse",
+    "category": "Peripherals",
+    "price": 59.00,
+    "stock": 18,
+    "specs": "58g lightweight, 26,000 DPI sensor, 1000Hz polling, optical switches",
+    "warranty_months": 12
+  },
+  {
+    "sku": "AUD-HDS-PRO",
+    "name": "TechStore SonicPro Wireless Headset",
+    "category": "Audio",
+    "price": 149.00,
+    "stock": 14,
+    "specs": "50mm drivers, 7.1 spatial audio, ANC microphone, 40h battery, 2.4GHz + BT 5.3",
+    "warranty_months": 12
+  },
+  {
+    "sku": "ACS-HUB-8IN1",
+    "name": "8-in-1 Multiport USB-C Hub",
+    "category": "Accessories",
+    "price": 49.00,
+    "stock": 50,
+    "specs": "HDMI 4K@60Hz, 3x USB 3.0, USB-C 100W PD, SD/TF, Gigabit Ethernet",
+    "warranty_months": 12
+  }
+]
